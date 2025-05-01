@@ -5,7 +5,7 @@
   I'm a software student just starting to explore Git, web development, and database management. 
   This profile will grow with my skills. 
 </h3>
-<h2> !Welcome to my development journey! 🚀 </h2>
+<h2 align="center"> !Welcome to my development journey! 🚀 </h2>
 
 
 
