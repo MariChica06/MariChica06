@@ -4,7 +4,7 @@
 <div align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=MariChica06.MariChica06"/>
 </div>
-<h2 align="center"> !Welcome to my development journey! 🚀 </h2>
+<h2 align="center"></h2>
 
 
 
