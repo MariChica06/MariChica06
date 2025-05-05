@@ -4,10 +4,6 @@
 <div align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=MariChica06.MariChica06"/>
 </div>
-<h3 align="center">
-  I'm a software student just starting to explore Git, web development, and database management. 
-  This profile will grow with my skills. 
-</h3>
 <h2 align="center"> !Welcome to my development journey! 🚀 </h2>
 
 
